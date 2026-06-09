@@ -69,8 +69,8 @@ I enjoy transforming raw data into meaningful insights through data analysis, vi
 
 ## 📫 Connect With Me
 
-- LinkedIn: www.linkedin.com/in/shreyasnayak-dataanalytics
-- Email: your-email@example.com
+- LinkedIn:www.linkedin.com/in/shreyas-nayak-668203320
+- Email:nayakshreyas58@gmail.com
 
 ---
 
