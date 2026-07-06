@@ -1,122 +1,152 @@
-<div align="center">
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&customColorList=12,20,24,30&text=Shreyas%20Nayak&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Analyst%20|%20Power%20BI%20Developer%20|%20SQL%20Enthusiast&descAlignY=58"/>
+</p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:6C63FF,50:7F5AF0,100:8B5CF6&text=Shreyas%20Nayak&fontColor=ffffff&fontSize=45&fontAlignY=38&desc=Data%20Analyst%20%7C%20Power%20BI%20Developer%20%7C%20SQL%20Enthusiast&descAlignY=58"/>
+<p align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=7F5AF0&center=true&vCenter=true&width=800&lines=Data+Analyst;Power+BI+Developer;SQL+Developer;Python+for+Analytics;Building+Business+Intelligence+Solutions;Always+Learning+New+Technologies)](https://git.io/typing-svg)
+# Hi 👋 I'm Shreyas Nayak
 
-![](https://img.shields.io/badge/MCA-Cambridge_Institute_of_Technology-6C63FF?style=for-the-badge)
-![](https://img.shields.io/badge/BCA-Karnataka_University-8B5CF6?style=for-the-badge)
-![](https://img.shields.io/badge/Location-Bengaluru,_India-blueviolet?style=for-the-badge)
+### Data Analyst • Power BI Developer • SQL Enthusiast
 
-<a href="mailto:nayakshreyas58@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact_Me-6C63FF?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://linkedin.com/in/shreyasnayak-668203320">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="https://github.com/nayakshreyas58-cloud">
-<img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github"/>
-</a>
-
-![](https://komarev.com/ghpvc/?username=nayakshreyas58-cloud&style=for-the-badge&color=6C63FF)
-
-</div>
+</p>
 
 ---
 
 # 💫 About Me
 
-Hi there 👋
+I'm an aspiring **Data Analyst** passionate about transforming raw data into actionable business insights.
 
-I'm **Shreyas Nayak**, an aspiring **Data Analyst** passionate about transforming raw data into meaningful business insights.
+I specialize in:
 
-I specialize in building interactive Power BI dashboards, writing optimized SQL queries, performing business analysis, and developing forecasting models using Python.
+- 📊 Power BI Dashboard Development
+- 📈 Business Intelligence
+- 🗄 SQL Query Optimization
+- 🐍 Python for Data Analytics
+- 📉 Sales Forecasting
+- 📋 Data Storytelling
+- 📌 KPI Dashboard Design
 
-My focus is to solve real-world business problems through:
-
-- 📊 Business Intelligence
-- 📈 Data Analytics
-- 📉 Forecasting
-- 🧠 Data Storytelling
-- ⚡ Dashboard Automation
-- 🏢 Decision Support Systems
-
-Currently pursuing **Master of Computer Applications (MCA)** while continuously improving my skills in analytics, visualization, machine learning, and cloud technologies.
+Currently pursuing **Master of Computer Applications (MCA)** while continuously improving my analytical and business intelligence skills.
 
 ---
 
 # 🚀 Open To
 
-- Data Analyst Roles
+- Data Analyst
 - Business Intelligence Developer
 - Power BI Developer
 - SQL Developer
-- Analytics Internships
+- Analytics Internship
 - Open Source Collaboration
 
 ---
 
 # 💻 Tech Stack
 
-## Programming Languages
+## Analytics & BI
 
-<p align="left">
-
-<img src="https://skillicons.dev/icons?i=python"/>
-<img src="https://skillicons.dev/icons?i=mysql"/>
-<img src="https://skillicons.dev/icons?i=c"/>
-<img src="https://skillicons.dev/icons?i=cpp"/>
-
-</p>
+![Power BI](https://img.shields.io/badge/Power_BI-7F5AF0?style=for-the-badge&logo=powerbi&logoColor=white)
+![Excel](https://img.shields.io/badge/Microsoft_Excel-7F5AF0?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-7F5AF0?style=for-the-badge&logo=mysql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-7F5AF0?style=for-the-badge&logo=python&logoColor=white)
 
 ---
 
-## Data Analytics
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=excel"/>
-
-</p>
+## Skills
 
 - Power BI
 - DAX
 - Power Query
-- Data Modeling
-- KPI Dashboards
-- Forecasting
-- Business Reporting
-- Data Cleaning
-
----
-
-## Databases
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=mysql"/>
-
-</p>
-
 - SQL
-- Joins
-- Window Functions
-- Aggregations
-- Stored Queries
-- Data Manipulation
+- Python
+- Microsoft Excel
+- Data Cleaning
+- Data Modeling
+- KPI Dashboard
+- Forecasting
+- Business Intelligence
+- Data Storytelling
 
 ---
 
-## Tools
+# 🚀 Featured Projects
 
-<p>
+<details>
+<summary><b>📊 Blinkit Sales Intelligence Dashboard</b></summary>
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode"/>
+### Overview
+
+Interactive Business Intelligence Dashboard with Python Forecasting.
+
+| Feature | Details |
+|---------|---------|
+| Stack | Power BI, Python, SQL |
+| Forecasting | ARIMA & Prophet |
+| Dashboard | Interactive KPIs |
+| Business Value | Sales Forecasting & Decision Support |
+
+### Highlights
+
+- Interactive KPI Dashboard
+- Sales Trend Analysis
+- Customer Insights
+- Forecasting till 2030
+- Business Decision Support
+
+</details>
+
+---
+
+<details>
+<summary><b>🛒 Zepto Sales Intelligence Analysis</b></summary>
+
+### Overview
+
+Comprehensive SQL-based business analytics project.
+
+| Feature | Details |
+|---------|---------|
+| Stack | SQL |
+| Analysis | Customer Behaviour |
+| Reports | Product Performance |
+| Business Value | Data Driven Decisions |
+
+### Highlights
+
+- Advanced SQL Queries
+- Customer Trend Analysis
+- Product Performance
+- Category Growth
+- Business Insights
+
+</details>
+
+---
+
+# 📫 Connect With Me
+
+📧 **Email:** nayakshreyas58@gmail.com
+
+💼 **LinkedIn:** https://linkedin.com/in/shreyasnayak-668203320
+
+💻 **GitHub:** https://github.com/nayakshreyas58-cloud
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/nayakshreyas58-cloud/nayakshreyas58-cloud/output/github-contribution-grid-snake.svg">
+</p>
+
+---
+
+<p align="center">
+
+### "Turning Data into Decisions."
 
 </p>
 
-- Microsoft Excel
-- PowerPoint
-- Power BI Desktop
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=gradient&customColorList=12,20,24,30"/>
+</p>
