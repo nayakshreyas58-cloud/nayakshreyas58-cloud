@@ -133,15 +133,7 @@ Comprehensive SQL-based business analytics project.
 
 ---
 
-# 🐍 Contribution Snake
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/nayakshreyas58-cloud/nayakshreyas58-cloud/output/github-contribution-grid-snake.svg">
-</p>
-
----
-
-<p align="center">
 
 ### "Turning Data into Decisions."
 
